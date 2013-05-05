@@ -1,4 +1,4 @@
 test
 ====
 
-to  familiar with git
+used to familiar with github operation
